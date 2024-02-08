@@ -1,0 +1,34 @@
+.title
+{font-weight:bold;
+color:rgb(241, 241, 215);
+}
+#card
+ {width: 300px;
+  border: solid 1px pink ;
+   padding: 10px; 
+     background-color:rgb(252, 178, 197);
+     box-shadow: 10px 10px rgb(131, 131, 131);}
+
+.picture
+{width: 300px;}
+
+#card-info
+{margin: 0px;
+padding: 10px;
+border: 1px solid pink;}
+
+.fact
+{font-style: italic;
+color: rgb(55, 13, 83);
+}
+
+.Label {font-weight: bold;}
+
+.list
+{list-style:none;
+padding: 0px;
+}
+
+.description{
+    color: rgb(55, 13, 83);
+}
